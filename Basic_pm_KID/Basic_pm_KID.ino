@@ -1,3 +1,7 @@
+// 5v>vcc
+//gnd>gnd
+//23>tx
+//19>rx
 #include "PMS.h"
 #define RXD2 23 
 #define TXD2 19
