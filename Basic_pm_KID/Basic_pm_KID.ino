@@ -1,5 +1,5 @@
 #include "PMS.h"
-#define RXD2 23 //fafwf
+#define RXD2 23 
 #define TXD2 19
 PMS pms(Serial);
 PMS::DATA data;
